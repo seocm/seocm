@@ -1,10 +1,10 @@
 # Hello
 
-**Embedded System Study**
+**Embedded System Developer**
 
-## Contact
-- Email: tjckdals330@naver.com
-- Blog: [maksimcoding.tistory.com](https://maksimcoding.tistory.com/)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white) [tjckdals330@naver.com](mailto:tjckdals330@naver.com)
+- ![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white) [maksimcoding.tistory.com](https://maksimcoding.tistory.com/)
+
 
 ## My Tech Stack 📚
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
