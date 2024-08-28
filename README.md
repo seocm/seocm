@@ -2,8 +2,8 @@
 
 **Embedded System Developer**
 
-- ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white) [tjckdals330@naver.com](mailto:tjckdals330@naver.com)
-- ![Blog](https://img.shields.io/badge/Tistory-FF9800?style=flat-square&logo=Web&logoColor=white) [maksimcoding.tistory.com](https://maksimcoding.tistory.com/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:tjckdals330@naver.com)
+- [![Tistory](https://img.shields.io/badge/Tistory-FF9800?style=flat-square&logo=Web&logoColor=white)](https://maksimcoding.tistory.com/)
 
 
 ## My Tech Stack 📚
