@@ -6,7 +6,7 @@
 - Email: tjckdals330@naver.com
 - Blog: [maksimcoding.tistory.com](https://maksimcoding.tistory.com/)
 
-## My Tech Stack
+## My Tech Stack 📚
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 - ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=AssemblyScript&logoColor=white)
