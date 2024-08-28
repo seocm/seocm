@@ -1,8 +1,6 @@
 # Hello
-Welcome to my GitHub!
 
-## Embedded System Study
-I am currently focused on studying Embedded Systems.
+**Embedded System Study**
 
 ## Contact
 - Email: tjckdals330@naver.com
