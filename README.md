@@ -21,5 +21,3 @@ tjckdals330@naver.com
 ### [4. Project_OpenVINO](https://github.com/opmaksim/Project_OpenVINO)
 ### [5. Project_SignalMaster](https://github.com/opmaksim/Project_SignalMaster)
 ### [6. Project_SmartFactory](https://github.com/opmaksim/Project_SmartFactory)
-
-이외에도 추가할 프로젝트가 있다면 언제든 알려주세요! 😊
