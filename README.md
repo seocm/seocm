@@ -6,8 +6,8 @@
 ---
 
 ### About Me ✨  
-- ✅ 수원대학교 컴퓨터SW 전공 (2019.03 ~ 2025.02 졸업 예정) [리포지토리](https://github.com/opmaksim/Study)
-- ✅ Intel Edge AI SW 아카데미 5기 [리포지토리](https://github.com/opmaksim/portfolio)
+- ✅ 수원대학교 컴퓨터SW 전공 (2019.03 ~ 2025.02 졸업 예정) 
+- ✅ Intel Edge AI SW 아카데미 5기 
 
 ---
 
