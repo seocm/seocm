@@ -15,7 +15,7 @@ tjckdals330@naver.com
 
 ## My Projects 💻  
 
-### [1. Project_SmartDoorGuard](https://github.com/opmaksim/Project_SmartDoorLock) 
+### [1. Project_SmartDoorLock](https://github.com/opmaksim/Project_SmartDoorLock) 
 ### [2. Project_DigitalFan](https://github.com/opmaksim/Project_DigitalFan)
 ### [3. Project_DoorGuard](https://github.com/opmaksim/Project_DoorGuard)
 ### [4. Project_OpenVINO](https://github.com/opmaksim/Project_OpenVINO)
