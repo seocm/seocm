@@ -1,7 +1,7 @@
 <h1>Hello!</h1>
 
 ### 임베디드 개발자 꿈나무
-📫 tjckdals330@naver.com  
+📫 seocm0330@gmail.com
 
 ---
 
