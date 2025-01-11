@@ -44,6 +44,6 @@
 ---
 
 ### Contact Me 📬  
-- 이메일: tjckdals330@naver.com  
+- 이메일: seocm0330@gmail.coㅡ
 - 블로그: [Tistory](https://maksimcoding.tistory.com/)  
 - GitHub: [opmaksim](https://github.com/opmaksim)
