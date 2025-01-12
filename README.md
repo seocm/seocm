@@ -41,6 +41,9 @@
 ### [6. Project_SmartFactory](https://github.com/opmaksim/Project_SmartFactory)
 - 스마트 공장 자동화 시스템 개발 (로봇 팔 제어 포함)
 
+### [7. Project_Wallped](httpsL//github.com/opmaksim/Project_Wallped)
+- STM32와 Qt를 이용한 나만의 Wallped
+
 ---
 
 ### Contact Me 📬  
