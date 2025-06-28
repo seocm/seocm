@@ -1,14 +1,14 @@
 <h1>Hello!</h1>
 
-### 임베디드 개발자 꿈나무
+### 임베디드 SW 개발자
 📫 seocm0330@gmail.com
 
 ---
 
 ### About Me ✨  
-- ✅ 수원대학교 컴퓨터SW 전공 (2019.03 ~ 2025.02 졸업 예정) 
-- ✅ Intel Edge AI SW 아카데미 5기 
-
+- ✅ Suwon University Computer SW (2019.03 ~ 2025.02) 
+- ✅ Intel Edge AI SW Academuy (2024.07 ~ 2025.02)
+- ✅ Embedded Developer (2024.04 ~ )
 ---
 
 ### My Blog  
