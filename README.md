@@ -44,6 +44,8 @@
 ### [7. Project_Wallped](https://github.com/opmaksim/Project_Wallped)
 - STM32와 Qt를 이용한 나만의 Wallped
 
+### [8. Project_V2X](https://github.com/opmaksim/Project_V2X)
+- STM32, MQTT, Yolo를 이용한 졸음방지 시스템 구현
 ---
 
 ### Contact Me 📬  
