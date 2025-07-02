@@ -51,4 +51,4 @@
 ### Contact Me 📬  
 - 이메일: seocm0330@gmail.com
 - 블로그: [Tistory](https://maksimcoding.tistory.com/)  
-- GitHub: [opmaksim](https://github.com/opmaksim)
+- GitHub: [seocm](https://github.com/seocm)
