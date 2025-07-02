@@ -8,7 +8,7 @@
 ### About Me ✨  
 - ✅ 수원대학교 컴퓨터SW 전공 (2019.03 ~ 2025.02) 
 - ✅ Intel Edge AI SW 아카데미 (2024.07 ~ 2025.02)
-- ✅ Embedded Developer (2024.04 ~ )
+- ✅ Embedded Developer (2025.04 ~ )
 ---
 
 ### My Blog  
