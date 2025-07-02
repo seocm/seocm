@@ -6,8 +6,8 @@
 ---
 
 ### About Me ✨  
-- ✅ Suwon University Computer SW (2019.03 ~ 2025.02) 
-- ✅ Intel Edge AI SW Academuy (2024.07 ~ 2025.02)
+- ✅ 수원대학교 컴퓨터SW 전공 (2019.03 ~ 2025.02) 
+- ✅ Intel Edge AI SW 아카데미 (2024.07 ~ 2025.02)
 - ✅ Embedded Developer (2024.04 ~ )
 ---
 
