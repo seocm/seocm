@@ -11,10 +11,6 @@
 | 2025.04 ~      | 다원시스(Smart SW)               | 전원장치 Firmware & Middleware 개발   |
 | 2024.07 ~ 2025.02     | Intel Edge AI SW 아카데미      | 임베디드 소프트웨어 교육   |
 | 2019.03 ~ 2025.02   | 수원대학교                       | 컴퓨터SW 졸업       |
-
-- ✅ 수원대학교 컴퓨터SW 전공 (2019.03 ~ 2025.02) 
-- ✅ Intel Edge AI SW 아카데미 (2024.07 ~ 2025.02)
-- ✅ Embedded Developer (2025.04 ~ )
 ---
 
 ### My Blog  
